@@ -1,0 +1,726 @@
+2025-06-17 11:38:04.332 +07:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-06-17 11:38:04.394 +07:00 [INF] Now listening on: https://localhost:7001
+2025-06-17 11:38:04.395 +07:00 [INF] Now listening on: http://localhost:5185
+2025-06-17 11:38:04.401 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-06-17 11:38:04.509 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-17 11:38:04.510 +07:00 [INF] Hosting environment: Development
+2025-06-17 11:38:04.510 +07:00 [INF] Content root path: E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi
+2025-06-17 11:38:07.337 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger - null null
+2025-06-17 11:38:07.435 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger - 301 0 null 102.902ms
+2025-06-17 11:38:07.440 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - null null
+2025-06-17 11:38:07.495 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - 200 null text/html;charset=utf-8 54.4457ms
+2025-06-17 11:38:07.515 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - null null
+2025-06-17 11:38:07.515 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-17 11:38:07.515 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-17 11:38:07.515 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - null null
+2025-06-17 11:38:07.515 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2025-06-17 11:38:07.518 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 3.2346ms
+2025-06-17 11:38:07.546 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-17 11:38:07.546 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-17 11:38:07.547 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 32.5597ms
+2025-06-17 11:38:07.547 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - 200 152034 text/css 32.6371ms
+2025-06-17 11:38:07.562 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.6537ms
+2025-06-17 11:38:07.570 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-17 11:38:07.570 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 55.4185ms
+2025-06-17 11:38:07.691 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - null null
+2025-06-17 11:38:07.696 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.4052ms
+2025-06-17 11:38:07.706 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/favicon-32x32.png - null null
+2025-06-17 11:38:07.706 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-06-17 11:38:07.707 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/favicon-32x32.png - 200 628 image/png 0.9208ms
+2025-06-17 12:23:55.276 +07:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-06-17 12:23:55.337 +07:00 [INF] Now listening on: https://localhost:7001
+2025-06-17 12:23:55.338 +07:00 [INF] Now listening on: http://localhost:5185
+2025-06-17 12:23:55.514 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-17 12:23:55.515 +07:00 [INF] Hosting environment: Development
+2025-06-17 12:23:55.515 +07:00 [INF] Content root path: E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi
+2025-06-17 12:23:55.710 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger - null null
+2025-06-17 12:23:55.815 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger - 301 0 null 110.338ms
+2025-06-17 12:23:55.822 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - null null
+2025-06-17 12:23:55.872 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - 200 null text/html;charset=utf-8 49.8565ms
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - null null
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - null null
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.css - null null
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.js - null null
+2025-06-17 12:23:55.894 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-17 12:23:55.895 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2025-06-17 12:23:55.899 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.js - 200 null application/javascript;charset=utf-8 5.2653ms
+2025-06-17 12:23:55.923 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 28.3138ms
+2025-06-17 12:23:55.924 +07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-06-17 12:23:55.925 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.css - 200 202 text/css 30.8404ms
+2025-06-17 12:23:55.933 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-17 12:23:55.933 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-17 12:23:55.936 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 42.0874ms
+2025-06-17 12:23:55.936 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - 200 154949 text/css 42.2248ms
+2025-06-17 12:23:55.944 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-17 12:23:55.944 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - 200 1485241 text/javascript 50.5614ms
+2025-06-17 12:23:55.954 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.9751ms
+2025-06-17 12:23:56.084 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - null null
+2025-06-17 12:23:56.092 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.0055ms
+2025-06-17 12:24:39.303 +07:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-06-17 12:24:39.373 +07:00 [INF] Now listening on: https://localhost:7001
+2025-06-17 12:24:39.373 +07:00 [INF] Now listening on: http://localhost:5185
+2025-06-17 12:24:39.412 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-06-17 12:24:39.516 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-17 12:24:39.516 +07:00 [INF] Hosting environment: Development
+2025-06-17 12:24:39.516 +07:00 [INF] Content root path: E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi
+2025-06-17 12:24:39.939 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger - null null
+2025-06-17 12:24:40.033 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger - 301 0 null 98.8798ms
+2025-06-17 12:24:40.040 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - null null
+2025-06-17 12:24:40.081 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - 200 null text/html;charset=utf-8 41.3301ms
+2025-06-17 12:24:40.102 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - null null
+2025-06-17 12:24:40.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - null null
+2025-06-17 12:24:40.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-17 12:24:40.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.css - null null
+2025-06-17 12:24:40.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.js - null null
+2025-06-17 12:24:40.103 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-17 12:24:40.106 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.js - 200 null application/javascript;charset=utf-8 2.781ms
+2025-06-17 12:24:40.109 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2025-06-17 12:24:40.131 +07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-06-17 12:24:40.132 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.css - 200 202 text/css 28.5572ms
+2025-06-17 12:24:40.132 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 28.7704ms
+2025-06-17 12:24:40.142 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-17 12:24:40.142 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-17 12:24:40.145 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 41.7998ms
+2025-06-17 12:24:40.145 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - 200 154949 text/css 42.7506ms
+2025-06-17 12:24:40.154 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-17 12:24:40.154 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - 200 1485241 text/javascript 51.4424ms
+2025-06-17 12:24:40.164 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.7476ms
+2025-06-17 12:24:40.288 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - null null
+2025-06-17 12:24:40.292 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.9796ms
+2025-06-17 12:25:09.011 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:25:09.039 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:09.178 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:25:09.181 +07:00 [INF] Product created: {"Id":"2e420e01-02e5-43f6-be38-62e0f6684794","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:25:09.191 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:25:09.193 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:25:09.199 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:09.201 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 169.5618 ms
+2025-06-17 12:25:09.202 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 191.9669ms
+2025-06-17 12:25:11.514 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:25:11.515 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:11.518 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:25:11.518 +07:00 [INF] Product created: {"Id":"b0542b32-f238-4d83-897b-d931aae5e60a","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:25:11.519 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:25:11.519 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:25:11.519 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:11.519 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 4.2904 ms
+2025-06-17 12:25:11.520 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 6.1849ms
+2025-06-17 12:25:29.310 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:25:29.310 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:25:29.358 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:25:29.358 +07:00 [ERR] HTTP POST /api/v1/products/getall responded 500 in 47.6479 ms
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:25:29.376 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:25:29.379 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 500 null text/plain; charset=utf-8 69.6897ms
+2025-06-17 12:25:51.939 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:25:51.943 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:51.944 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:25:51.944 +07:00 [INF] Product created: {"Id":"db00df45-bfb1-45cf-98d5-00a467b365ef","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:25:51.945 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:25:51.945 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:25:51.945 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:51.945 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 1.9428 ms
+2025-06-17 12:25:51.945 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 6.385ms
+2025-06-17 12:25:52.842 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:25:52.843 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:52.843 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:25:52.843 +07:00 [INF] Product created: {"Id":"deb06d00-9623-4f0f-964d-2eaa6a33f7f0","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:25:52.843 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:25:52.843 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:25:52.843 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:25:52.843 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 0.8929 ms
+2025-06-17 12:25:52.844 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 2.0948ms
+2025-06-17 12:25:59.686 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:25:59.687 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:25:59.703 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:25:59.703 +07:00 [ERR] HTTP POST /api/v1/products/getall responded 500 in 16.0501 ms
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:25:59.704 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:25:59.705 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 500 null text/plain; charset=utf-8 19.2635ms
+2025-06-17 12:32:39.044 +07:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-06-17 12:32:39.105 +07:00 [INF] Now listening on: https://localhost:7001
+2025-06-17 12:32:39.106 +07:00 [INF] Now listening on: http://localhost:5185
+2025-06-17 12:32:39.143 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-06-17 12:32:39.242 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-17 12:32:39.242 +07:00 [INF] Hosting environment: Development
+2025-06-17 12:32:39.242 +07:00 [INF] Content root path: E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi
+2025-06-17 12:32:39.636 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger - null null
+2025-06-17 12:32:39.729 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger - 301 0 null 97.785ms
+2025-06-17 12:32:39.735 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - null null
+2025-06-17 12:32:39.775 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - 200 null text/html;charset=utf-8 40.8255ms
+2025-06-17 12:32:39.793 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - null null
+2025-06-17 12:32:39.793 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.css - null null
+2025-06-17 12:32:39.794 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-17 12:32:39.794 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - null null
+2025-06-17 12:32:39.794 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.js - null null
+2025-06-17 12:32:39.794 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-17 12:32:39.799 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.js - 200 null application/javascript;charset=utf-8 4.0794ms
+2025-06-17 12:32:39.800 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2025-06-17 12:32:39.821 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 26.4302ms
+2025-06-17 12:32:39.824 +07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-06-17 12:32:39.824 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.css - 200 202 text/css 30.8052ms
+2025-06-17 12:32:39.833 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-17 12:32:39.833 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-17 12:32:39.834 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 40.8008ms
+2025-06-17 12:32:39.834 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - 200 154949 text/css 40.9078ms
+2025-06-17 12:32:39.847 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-17 12:32:39.847 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - 200 1485241 text/javascript 53.8273ms
+2025-06-17 12:32:39.856 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 56.044ms
+2025-06-17 12:32:39.981 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - null null
+2025-06-17 12:32:39.987 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.8623ms
+2025-06-17 12:32:44.960 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:32:44.974 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:32:45.019 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:32:45.020 +07:00 [ERR] HTTP POST /api/v1/products/getall responded 500 in 51.4171 ms
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:32:45.036 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Error constructing handler for request of type MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]. Register your handlers with the container. See the samples in GitHub for examples.
+ ---> System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[CleanMediatorMinimalApi.Application.Products.Commands.GetAllProducts,System.Collections.Generic.IEnumerable`1[System.Object]]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at MediatR.ServiceFactoryExtensions.GetInstance[T](ServiceFactory factory)
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   --- End of inner exception stack trace ---
+   at MediatR.Wrappers.HandlerBase.GetHandler[THandler](ServiceFactory factory)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1.ProductEndpoint.GetAllProductsAsync(ISender sender, CancellationToken cancellationToken) in E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi\Presentation\Endpoints\Products\v1\ProductEndpoint .cs:line 39
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.ExecuteTaskResult[T](Task`1 task, HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:32:45.039 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 500 null text/plain; charset=utf-8 79.6079ms
+2025-06-17 12:35:57.424 +07:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2025-06-17 12:35:57.485 +07:00 [INF] Now listening on: https://localhost:7001
+2025-06-17 12:35:57.486 +07:00 [INF] Now listening on: http://localhost:5185
+2025-06-17 12:35:57.519 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-06-17 12:35:57.610 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-17 12:35:57.610 +07:00 [INF] Hosting environment: Development
+2025-06-17 12:35:57.610 +07:00 [INF] Content root path: E:\c#\CleanMediatorMinimalApi\CleanMediatorMinimalApi
+2025-06-17 12:35:57.958 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger - null null
+2025-06-17 12:35:58.050 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger - 301 0 null 96.4531ms
+2025-06-17 12:35:58.055 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.html - null null
+2025-06-17 12:35:58.100 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.html - 200 null text/html;charset=utf-8 45.0411ms
+2025-06-17 12:35:58.124 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - null null
+2025-06-17 12:35:58.124 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.css - null null
+2025-06-17 12:35:58.124 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - null null
+2025-06-17 12:35:58.124 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-17 12:35:58.125 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/index.js - null null
+2025-06-17 12:35:58.125 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-17 12:35:58.130 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.js - 200 null application/javascript;charset=utf-8 5.606ms
+2025-06-17 12:35:58.131 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2025-06-17 12:35:58.161 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16531 application/javascript; charset=utf-8 36.5491ms
+2025-06-17 12:35:58.162 +07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-06-17 12:35:58.163 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/index.css - 200 202 text/css 38.5392ms
+2025-06-17 12:35:58.170 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-17 12:35:58.170 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-17 12:35:58.172 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui.css - 200 154949 text/css 48.2968ms
+2025-06-17 12:35:58.172 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 48.1152ms
+2025-06-17 12:35:58.183 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-17 12:35:58.183 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/swagger-ui-bundle.js - 200 1485241 text/javascript 59.1743ms
+2025-06-17 12:35:58.194 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.1069ms
+2025-06-17 12:35:58.316 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - null null
+2025-06-17 12:35:58.320 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7001/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4.4102ms
+2025-06-17 12:36:00.992 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:36:01.005 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:01.056 +07:00 [INF] Handling GetAllProducts
+2025-06-17 12:36:01.056 +07:00 [INF] Products retrieved: 0
+2025-06-17 12:36:01.066 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:36:01.067 +07:00 [INF] Writing value of type 'List`1' as Json.
+2025-06-17 12:36:01.070 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:01.072 +07:00 [INF] HTTP POST /api/v1/products/getall responded 200 in 70.9526 ms
+2025-06-17 12:36:01.072 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 200 null application/json; charset=utf-8 80.1691ms
+2025-06-17 12:36:13.814 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:36:13.816 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:13.838 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:36:13.840 +07:00 [INF] Product created: {"Id":"978f3011-8eba-433f-97b6-05b7050072cb","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:36:13.843 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:36:13.843 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:36:13.846 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:13.846 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 29.9763 ms
+2025-06-17 12:36:13.846 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 32.0246ms
+2025-06-17 12:36:14.987 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 39
+2025-06-17 12:36:14.987 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:14.989 +07:00 [INF] Handling CreateProduct: {"Name":"ขนม","Price":5,"$type":"CreateProduct"}
+2025-06-17 12:36:14.989 +07:00 [INF] Product created: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:36:14.990 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:36:14.990 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:36:14.990 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:14.990 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 3.0296 ms
+2025-06-17 12:36:14.990 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 3.7539ms
+2025-06-17 12:36:19.310 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:36:19.310 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:19.312 +07:00 [INF] Handling GetAllProducts
+2025-06-17 12:36:19.312 +07:00 [INF] Products retrieved: 2
+2025-06-17 12:36:19.312 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:36:19.312 +07:00 [INF] Writing value of type 'List`1' as Json.
+2025-06-17 12:36:19.312 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:19.312 +07:00 [INF] HTTP POST /api/v1/products/getall responded 200 in 1.6734 ms
+2025-06-17 12:36:19.312 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 200 null application/json; charset=utf-8 2.5895ms
+2025-06-17 12:36:51.625 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/create - application/json 43
+2025-06-17 12:36:51.632 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:51.634 +07:00 [INF] Handling CreateProduct: {"Name":"รถยน","Price":10,"$type":"CreateProduct"}
+2025-06-17 12:36:51.634 +07:00 [INF] Product created: {"Id":"a1d4f819-63dd-4ba0-a0a5-ad8a94888013","Name":"รถยน","Price":10,"$type":"Product"}
+2025-06-17 12:36:51.634 +07:00 [INF] Setting HTTP status code 201.
+2025-06-17 12:36:51.634 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:36:51.634 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/create => CreateProductAsync'
+2025-06-17 12:36:51.634 +07:00 [INF] HTTP POST /api/v1/products/create responded 201 in 1.8594 ms
+2025-06-17 12:36:51.634 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/create - 201 null application/json; charset=utf-8 9.4934ms
+2025-06-17 12:36:56.576 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:36:56.577 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:56.578 +07:00 [INF] Handling GetAllProducts
+2025-06-17 12:36:56.578 +07:00 [INF] Products retrieved: 3
+2025-06-17 12:36:56.578 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:36:56.578 +07:00 [INF] Writing value of type 'List`1' as Json.
+2025-06-17 12:36:56.578 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:36:56.578 +07:00 [INF] HTTP POST /api/v1/products/getall responded 200 in 1.2745 ms
+2025-06-17 12:36:56.578 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 200 null application/json; charset=utf-8 2.2551ms
+2025-06-17 12:37:07.408 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 51
+2025-06-17 12:37:07.409 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:07.416 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:07.416 +07:00 [ERR] HTTP POST /api/v1/products/getbyid responded 500 in 7.4579 ms
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:37:07.427 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:37:07.438 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 400 null text/plain; charset=utf-8 29.8856ms
+2025-06-17 12:37:13.168 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 51
+2025-06-17 12:37:13.169 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:13.170 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:13.170 +07:00 [ERR] HTTP POST /api/v1/products/getbyid responded 500 in 1.3083 ms
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:37:13.171 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:37:13.174 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 400 null text/plain; charset=utf-8 5.6224ms
+2025-06-17 12:37:13.952 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 51
+2025-06-17 12:37:13.956 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:13.958 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:37:13.959 +07:00 [ERR] HTTP POST /api/v1/products/getbyid responded 500 in 2.2074 ms
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:37:13.959 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:37:13.961 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 400 null text/plain; charset=utf-8 9.1263ms
+2025-06-17 12:40:55.321 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 51
+2025-06-17 12:40:55.325 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:40:55.326 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:40:55.327 +07:00 [ERR] HTTP POST /api/v1/products/getbyid responded 500 in 1.2331 ms
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-06-17 12:40:55.327 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Http.BadHttpRequestException: Failed to read parameter "GetProductById query" from the request body as JSON.
+ ---> System.Text.Json.JsonException: The JSON value could not be converted to CleanMediatorMinimalApi.Application.Products.Commands.GetProductById. Path: $.id | LineNumber: 1 | BytePositionInLine: 47.
+ ---> System.FormatException: The JSON value is not in a supported Guid format.
+   at System.Text.Json.ThrowHelper.ThrowFormatException(DataType dataType)
+   at System.Text.Json.Utf8JsonReader.GetGuid()
+   at System.Text.Json.Serialization.Converters.GuidConverter.Read(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.TryRead[TArg](ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo, TArg& arg)
+   at System.Text.Json.Serialization.Converters.SmallObjectWithParameterizedConstructorConverter`5.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, Utf8JsonReader& reader, Exception ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize(ReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.HttpRequestJsonExtensions.ReadFromJsonAsync(HttpRequest request, JsonTypeInfo jsonTypeInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.InvalidJsonRequestBody(HttpContext httpContext, String parameterTypeName, String parameterName, Exception exception, Boolean shouldThrow)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<HandleRequestBodyAndCompileRequestDelegateForJson>g__TryReadBodyAsync|102_0(HttpContext httpContext, Type bodyType, String parameterTypeName, String parameterName, Boolean allowEmptyRequestBody, Boolean throwOnBadRequest, JsonTypeInfo jsonTypeInfo)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass102_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-06-17 12:40:55.329 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 400 null text/plain; charset=utf-8 8.6541ms
+2025-06-17 12:42:25.729 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 50
+2025-06-17 12:42:25.732 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:25.735 +07:00 [INF] Handling GetProductById: "a1d4f819-63dd-4ba0-a0a5-ad8a94888013"
+2025-06-17 12:42:25.735 +07:00 [INF] Product retrieved: {"Id":"a1d4f819-63dd-4ba0-a0a5-ad8a94888013","Name":"รถยน","Price":10,"$type":"Product"}
+2025-06-17 12:42:25.736 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:42:25.736 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:42:25.736 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:25.736 +07:00 [INF] HTTP POST /api/v1/products/getbyid responded 200 in 4.3023 ms
+2025-06-17 12:42:25.736 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 200 null application/json; charset=utf-8 10.4341ms
+2025-06-17 12:42:35.261 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 50
+2025-06-17 12:42:35.262 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:35.263 +07:00 [INF] Handling GetProductById: "2c3fb956-1b38-4a2d-ba54-ff77e8191b12"
+2025-06-17 12:42:35.263 +07:00 [INF] Product retrieved: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:42:35.263 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:42:35.263 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:42:35.264 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:35.264 +07:00 [INF] HTTP POST /api/v1/products/getbyid responded 200 in 1.8394 ms
+2025-06-17 12:42:35.264 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 200 null application/json; charset=utf-8 2.4541ms
+2025-06-17 12:42:45.990 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - application/json 50
+2025-06-17 12:42:45.991 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:45.991 +07:00 [INF] Handling GetProductById: "978f3011-8eba-433f-97b6-05b7050072cb"
+2025-06-17 12:42:45.991 +07:00 [INF] Product retrieved: {"Id":"978f3011-8eba-433f-97b6-05b7050072cb","Name":"ขนม","Price":5,"$type":"Product"}
+2025-06-17 12:42:45.992 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:42:45.992 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:42:45.992 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getbyid => GetProductByIdAsync'
+2025-06-17 12:42:45.992 +07:00 [INF] HTTP POST /api/v1/products/getbyid responded 200 in 1.2744 ms
+2025-06-17 12:42:45.992 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getbyid - 200 null application/json; charset=utf-8 1.8913ms
+2025-06-17 12:43:27.336 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/update - application/json 94
+2025-06-17 12:43:27.337 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/update => UpdateProductAsync'
+2025-06-17 12:43:27.344 +07:00 [INF] Handling UpdateProduct: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"วงกลม","Price":15,"$type":"UpdateProduct"}
+2025-06-17 12:43:27.344 +07:00 [INF] Product updated: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"วงกลม","Price":15,"$type":"Product"}
+2025-06-17 12:43:27.344 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:27.345 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:43:27.345 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/update => UpdateProductAsync'
+2025-06-17 12:43:27.345 +07:00 [INF] HTTP POST /api/v1/products/update responded 200 in 7.6507 ms
+2025-06-17 12:43:27.345 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/update - 200 null application/json; charset=utf-8 10.173ms
+2025-06-17 12:43:30.066 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/update - application/json 94
+2025-06-17 12:43:30.066 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/update => UpdateProductAsync'
+2025-06-17 12:43:30.068 +07:00 [INF] Handling UpdateProduct: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"วงกลม","Price":15,"$type":"UpdateProduct"}
+2025-06-17 12:43:30.068 +07:00 [INF] Product updated: {"Id":"2c3fb956-1b38-4a2d-ba54-ff77e8191b12","Name":"วงกลม","Price":15,"$type":"Product"}
+2025-06-17 12:43:30.068 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:30.068 +07:00 [INF] Writing value of type 'ProductDto' as Json.
+2025-06-17 12:43:30.068 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/update => UpdateProductAsync'
+2025-06-17 12:43:30.068 +07:00 [INF] HTTP POST /api/v1/products/update responded 200 in 2.5218 ms
+2025-06-17 12:43:30.069 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/update - 200 null application/json; charset=utf-8 3.2163ms
+2025-06-17 12:43:33.864 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:43:33.864 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:43:33.864 +07:00 [INF] Handling GetAllProducts
+2025-06-17 12:43:33.864 +07:00 [INF] Products retrieved: 3
+2025-06-17 12:43:33.864 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:33.864 +07:00 [INF] Writing value of type 'List`1' as Json.
+2025-06-17 12:43:33.865 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:43:33.865 +07:00 [INF] HTTP POST /api/v1/products/getall responded 200 in 0.5446 ms
+2025-06-17 12:43:33.865 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 200 null application/json; charset=utf-8 1.0558ms
+2025-06-17 12:43:43.394 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/delete - application/json 50
+2025-06-17 12:43:43.394 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/delete => DeleteProductAsync'
+2025-06-17 12:43:43.398 +07:00 [INF] Handling DeleteProduct: "2c3fb956-1b38-4a2d-ba54-ff77e8191b12"
+2025-06-17 12:43:43.399 +07:00 [INF] Product deleted: "2c3fb956-1b38-4a2d-ba54-ff77e8191b12"
+2025-06-17 12:43:43.399 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:43.399 +07:00 [INF] Writing value of type 'Boolean' as Json.
+2025-06-17 12:43:43.405 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/delete => DeleteProductAsync'
+2025-06-17 12:43:43.405 +07:00 [INF] HTTP POST /api/v1/products/delete responded 200 in 10.6195 ms
+2025-06-17 12:43:43.405 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/delete - 200 null application/json; charset=utf-8 11.1579ms
+2025-06-17 12:43:46.250 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/delete - application/json 50
+2025-06-17 12:43:46.250 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/delete => DeleteProductAsync'
+2025-06-17 12:43:46.253 +07:00 [INF] Handling DeleteProduct: "2c3fb956-1b38-4a2d-ba54-ff77e8191b12"
+2025-06-17 12:43:46.254 +07:00 [WRN] Product not found for delete: "2c3fb956-1b38-4a2d-ba54-ff77e8191b12"
+2025-06-17 12:43:46.254 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:46.254 +07:00 [INF] Writing value of type 'Boolean' as Json.
+2025-06-17 12:43:46.254 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/delete => DeleteProductAsync'
+2025-06-17 12:43:46.254 +07:00 [INF] HTTP POST /api/v1/products/delete responded 200 in 3.9351 ms
+2025-06-17 12:43:46.254 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/delete - 200 null application/json; charset=utf-8 4.4564ms
+2025-06-17 12:43:50.856 +07:00 [INF] Request starting HTTP/2 POST https://localhost:7001/api/v1/products/getall - null 0
+2025-06-17 12:43:50.856 +07:00 [INF] Executing endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:43:50.856 +07:00 [INF] Handling GetAllProducts
+2025-06-17 12:43:50.856 +07:00 [INF] Products retrieved: 2
+2025-06-17 12:43:50.856 +07:00 [INF] Setting HTTP status code 200.
+2025-06-17 12:43:50.856 +07:00 [INF] Writing value of type 'List`1' as Json.
+2025-06-17 12:43:50.856 +07:00 [INF] Executed endpoint 'HTTP: POST api/v{version:apiVersion}/products/getall => GetAllProductsAsync'
+2025-06-17 12:43:50.856 +07:00 [INF] HTTP POST /api/v1/products/getall responded 200 in 0.3523 ms
+2025-06-17 12:43:50.856 +07:00 [INF] Request finished HTTP/2 POST https://localhost:7001/api/v1/products/getall - 200 null application/json; charset=utf-8 0.9296ms

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\CleanMediatorMinimalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\application\\products\\commands\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\application\\products\\commands\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\application\\products\\commands\\getproductbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\application\\products\\commands\\getproductbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\presentation\\endpoints\\products\\v1\\productendpoint .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\presentation\\endpoints\\products\\v1\\productendpoint .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\application\\products\\commands\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\application\\products\\commands\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\application\\products\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\application\\products\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\presentation\\shared\\iendpointdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\presentation\\shared\\iendpointdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|e:\\c#\\cleanmediatorminimalapi\\cleanmediatorminimalapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C07AB4-2018-41C6-8F85-FCF48CF8212F}|CleanMediatorMinimalApi\\CleanMediatorMinimalApi.csproj|solutionrelative:cleanmediatorminimalapi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductById.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\GetProductById.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\GetProductById.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\GetProductById.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\GetProductById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\CreateProduct.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\CreateProduct.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:34:50.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEndpoint .cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Presentation\\Endpoints\\Products\\v1\\ProductEndpoint .cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Presentation\\Endpoints\\Products\\v1\\ProductEndpoint .cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Presentation\\Endpoints\\Products\\v1\\ProductEndpoint .cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Presentation\\Endpoints\\Products\\v1\\ProductEndpoint .cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:11:30.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\UpdateProduct.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Commands\\UpdateProduct.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Application\\Products\\Commands\\UpdateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:16:09.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Application\\Products\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Application\\Products\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Application\\Products\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:59:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Program.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Program.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:31:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEndpointDefinition.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Presentation\\Shared\\IEndpointDefinition.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Presentation\\Shared\\IEndpointDefinition.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Presentation\\Shared\\IEndpointDefinition.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Presentation\\Shared\\IEndpointDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:18:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\appsettings.json",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\appsettings.json",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T04:32:20.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanMediatorMinimalApi\\Domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\c#\\CleanMediatorMinimalApi\\CleanMediatorMinimalApi\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanMediatorMinimalApi\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:55:51.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
