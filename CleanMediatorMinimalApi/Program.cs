@@ -1,15 +1,8 @@
-﻿using CleanMediatorMinimalApi.Application.Products.Commands;
-using CleanMediatorMinimalApi.Application.Products.Interfaces;
-using CleanMediatorMinimalApi.Application.Products.Mapping;
-using CleanMediatorMinimalApi.Application.Products.Validators;
-using CleanMediatorMinimalApi.Infrastucture.Repositories.MemoryCache;
-using FluentValidation;
-using MediatR;
+﻿
 using Serilog;
 using Asp.Versioning;
-using Asp.Versioning.Builder;
-using CleanMediatorMinimalApi.Presentation.Endpoints.Products.v1;
 using CleanMediatorMinimalApi.Presentation.Shared;
+using CleanMediatorMinimalApi.Infrastructure.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,20 +19,8 @@ builder.Host.UseSerilog((context, config) =>
 });
 
 // Register services
-builder.Services.AddMemoryCache();
-builder.Services.AddScoped<IProductRepository, ProductMemoryCacheRepository>();
+builder.Services.AddApplicationServices();
 
-builder.Services.AddAutoMapper(typeof(ProductMappingProfile).Assembly);
-builder.Services.AddValidatorsFromAssemblyContaining<CreateProductValidator>();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-
-builder.Services.AddMediatR(typeof(CreateProduct).Assembly);
-builder.Services.AddMediatR(typeof(DeleteProduct).Assembly);
-builder.Services.AddMediatR(typeof(GetAllProducts).Assembly);
-builder.Services.AddMediatR(typeof(GetProductById).Assembly);
-builder.Services.AddMediatR(typeof(UpdateProduct).Assembly);
 
 builder.Services.AddApiVersioning(options =>
 {
